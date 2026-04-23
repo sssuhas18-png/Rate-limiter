@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "ioredis": "^5.10.1"
+  }
+}
